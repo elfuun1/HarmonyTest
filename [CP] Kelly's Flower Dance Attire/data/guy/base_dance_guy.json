@@ -1,0 +1,102 @@
+{
+	"Changes": 
+	[
+		{
+			"LogName": "Flower Dance - Guy - Base - Dancing - 1",
+			"Action": "EditImage",
+			"Target": "Characters/Farmer/farmer_base",
+			"FromFile": "assets/farmer_base/base_suit_dance_1.png",
+			"ToArea": { "X": 0, "Y": 352, "Width": 16, "Height": 32 },
+			"Update": "OnLocationChange",
+			"When":
+			{
+				"DayEvent": "flower dance",
+				"LocationName": "Temp",				
+			}
+		},
+
+		{
+			"LogName": "Flower Dance - Guy - Base - Dancing - 2",
+			"Action": "EditImage",
+			"Target": "Characters/Farmer/farmer_base",
+			"FromFile": "assets/farmer_base/base_suit_dance_2.png",
+			"ToArea": { "X": 16, "Y": 352, "Width": 16, "Height": 32 },
+			"Update": "OnLocationChange",
+			"When":
+			{
+				"DayEvent": "flower dance",
+				"LocationName": "Temp",				
+			}
+		},
+
+		{
+			"LogName": "Flower Dance - Guy - Base - Dancing - 3",
+			"Action": "EditImage",
+			"Target": "Characters/Farmer/farmer_base",
+			"FromFile": "assets/farmer_base/base_suit_dance_3.png",
+			"ToArea": { "X": 64, "Y": 352, "Width": 16, "Height": 32 },
+			"Update": "OnLocationChange",
+			"When":
+			{
+				"DayEvent": "flower dance",
+				"LocationName": "Temp",				
+			}
+		},
+
+		{
+			"LogName": "Flower Dance - Guy - Base - Dancing - 4",
+			"Action": "EditImage",
+			"Target": "Characters/Farmer/farmer_base",
+			"FromFile": "assets/farmer_base/base_suit_dance_4.png",
+			"ToArea": { "X": 80, "Y": 480, "Width": 16, "Height": 32 },
+			"Update": "OnLocationChange",
+			"When":
+			{
+				"DayEvent": "flower dance",
+				"LocationName": "Temp",				
+			}
+		},
+
+		{
+			"LogName": "Flower Dance - Guy - Base - Dancing - 5",
+			"Action": "EditImage",
+			"Target": "Characters/Farmer/farmer_base",
+			"FromFile": "assets/farmer_base/base_suit_dance_5.png",
+			"ToArea": { "X": 0, "Y": 512, "Width": 16, "Height": 32 },
+			"Update": "OnLocationChange",
+			"When":
+			{
+				"DayEvent": "flower dance",
+				"LocationName": "Temp",				
+			}
+		},
+
+		{
+			"LogName": "Flower Dance - Guy - Base - Dancing - 6",
+			"Action": "EditImage",
+			"Target": "Characters/Farmer/farmer_base",
+			"FromFile": "assets/farmer_base/base_suit_dance_6.png",
+			"ToArea": { "X": 64, "Y": 512, "Width": 16, "Height": 32 },
+			"Update": "OnLocationChange",
+			"When":
+			{
+				"DayEvent": "flower dance",
+				"LocationName": "Temp",				
+			}
+		},
+
+		{
+			"LogName": "Flower Dance - Guy - Base - Dancing - Guy Pos",
+			"Action": "EditImage",
+			"Target": "Characters/Farmer/farmer_base",
+			"FromFile": "assets/farmer_base/base_suit_dance_guy.png",
+			"ToArea": { "X": 48, "Y": 160, "Width": 16, "Height": 32 },
+			"Update": "OnLocationChange",
+			"When":
+			{
+				"DayEvent": "flower dance",
+				"LocationName": "Temp",				
+			}
+		},
+    ]
+}
