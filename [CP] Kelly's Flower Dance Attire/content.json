@@ -1,6 +1,23 @@
 {
 	"Format": "1.20.0",
 
+	"ConfigSchema": 
+	{
+		"Male-Base-Attire": 
+		{
+			"AllowValues": "Dress, Suit",
+			"Default": "Suit",
+			"Description": "The attire that players using the male base sprite will wear."
+		},
+
+		"Female-Base-Attire": 
+		{
+			"AllowValues": "Dress, Suit",
+			"Default": "Dress",
+			"Description": "The attire that players using the female base sprite will wear."
+		}
+	},
+
 	"Changes": 
 	[
 	// Girl
@@ -76,7 +93,8 @@
 			"Action": "Include",
 			"FromFile": "data/guy/pants_dance_guy.json"
 		},
-		
+
+	// Shirt Segments
 		{
 			"LogName": "Flower Dance - Shirt Segment 1",
 			"Action": "EditImage",

@@ -5,7 +5,7 @@
 			"LogName": "Flower Dance - Guy - Pants - Dancing - 1",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/guy/pants_suit_dance_1.png",
+			"FromFile": "assets/farmer_base/attire/pants_{{Male-Base-Attire}}_dance_1.png",
 			"ToArea": { "X": 768, "Y": 1040, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -19,7 +19,7 @@
 			"LogName": "Flower Dance - Guy - Pants - Dancing - 2",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/guy/pants_suit_dance_2.png",
+			"FromFile": "assets/farmer_base/attire/pants_{{Male-Base-Attire}}_dance_2.png",
 			"ToArea": { "X": 784, "Y": 1040, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -33,7 +33,7 @@
 			"LogName": "Flower Dance - Guy - Pants - Dancing - 3",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/guy/pants_suit_dance_3.png",
+			"FromFile": "assets/farmer_base/attire/pants_{{Male-Base-Attire}}_dance_3.png",
 			"ToArea": { "X": 832, "Y": 1040, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -47,7 +47,7 @@
 			"LogName": "Flower Dance - Guy - Pants - Dancing - 4",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/guy/pants_suit_dance_4.png",
+			"FromFile": "assets/farmer_base/attire/pants_{{Male-Base-Attire}}_dance_4.png",
 			"ToArea": { "X": 848, "Y": 1168, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -61,7 +61,7 @@
 			"LogName": "Flower Dance - Guy - Pants - Dancing - 5",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/guy/pants_suit_dance_5.png",
+			"FromFile": "assets/farmer_base/attire/pants_{{Male-Base-Attire}}_dance_5.png",
 			"ToArea": { "X": 768, "Y": 1200, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -75,7 +75,7 @@
 			"LogName": "Flower Dance - Guy - Pants - Dancing - 6",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/guy/pants_suit_dance_6.png",
+			"FromFile": "assets/farmer_base/attire/pants_{{Male-Base-Attire}}_dance_6.png",
 			"ToArea": { "X": 832, "Y": 1200, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -89,7 +89,7 @@
 			"LogName": "Flower Dance - Guy - Pants - Dancing - Guy Pos",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/guy/pants_suit_dance_guy.png",
+			"FromFile": "assets/farmer_base/attire/pants_{{Male-Base-Attire}}_dance_guy.png",
 			"ToArea": { "X": 816, "Y": 848, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":

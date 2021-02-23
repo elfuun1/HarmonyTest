@@ -5,7 +5,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 1",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_1.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_1.png",
 			"ToArea": { "X": 864, "Y": 688, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -19,7 +19,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 2",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_2.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_2.png",
 			"ToArea": { "X": 880, "Y": 688, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -33,7 +33,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 3",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_3.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_3.png",
 			"ToArea": { "X": 896, "Y": 688, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -47,7 +47,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 4",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_4.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_4.png",
 			"ToArea": { "X": 864, "Y": 720, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -61,7 +61,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 5",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_5.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_5.png",
 			"ToArea": { "X": 880, "Y": 720, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -75,7 +75,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 6",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_6.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_6.png",
 			"ToArea": { "X": 896, "Y": 720, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -89,7 +89,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 7",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_7.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_7.png",
 			"ToArea": { "X": 864, "Y": 752, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -103,7 +103,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 8",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_8.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_8.png",
 			"ToArea": { "X": 880, "Y": 752, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -117,7 +117,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 9",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_9.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_9.png",
 			"ToArea": { "X": 896, "Y": 752, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -131,7 +131,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 10",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_10.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_10.png",
 			"ToArea": { "X": 864, "Y": 784, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -145,7 +145,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 11",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_11.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_11.png",
 			"ToArea": { "X": 880, "Y": 784, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -159,7 +159,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 12",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_12.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_12.png",
 			"ToArea": { "X": 896, "Y": 784, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -173,7 +173,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 13",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_13.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_13.png",
 			"ToArea": { "X": 912, "Y": 784, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -187,7 +187,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 14",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_14.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_14.png",
 			"ToArea": { "X": 928, "Y": 784, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -201,7 +201,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 15",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_15.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_15.png",
 			"ToArea": { "X": 944, "Y": 784, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -215,7 +215,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 16",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_16.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_16.png",
 			"ToArea": { "X": 944, "Y": 752, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
@@ -229,7 +229,7 @@
 			"LogName": "Flower Dance - Girl - Pants - Walk - 17",
 			"Action": "EditImage",
 			"Target": "Characters/Farmer/pants",
-			"FromFile": "assets/pants/girl/pants_dress_walking_17.png",
+			"FromFile": "assets/farmer_girl_base/attire/pants_{{Female-Base-Attire}}_walking_17.png",
 			"ToArea": { "X": 944, "Y": 720, "Width": 16, "Height": 32 },
 			"Update": "OnLocationChange",
 			"When":
