@@ -44,6 +44,12 @@ namespace FlowerDancing
         private void onLaunched(object sender, GameLaunchedEventArgs e)
         {
             var api = Helper.ModRegistry.GetApi<GenericModConfigMenuAPI>("spacechase0.GenericModConfigMenu");
+
+            if(api is null) // Doesn't have Generic Mod Config Menu installed
+            {
+                return;
+            }
+
             api.RegisterModConfig(ModManifest, () => Config = new ModConfig(), () => Helper.WriteConfig(Config));
             api.RegisterLabel(ModManifest, "Kelly's Flower Dancing", "Made by kelly2892");
             api.RegisterSimpleOption(ModManifest, "Auto Remove Attire", "Will automatically take off your clothes when you enter the Flower Dance. Once the dance is done, the clothes will be re-added.", () => Config.AutoRemoveClothes, (bool val) => Config.AutoRemoveClothes = val);
