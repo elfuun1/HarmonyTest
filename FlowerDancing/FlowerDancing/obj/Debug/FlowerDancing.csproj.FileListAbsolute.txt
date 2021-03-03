@@ -1,0 +1,5 @@
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\bin\Debug\FlowerDancing.dll
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\bin\Debug\FlowerDancing.pdb
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\obj\Debug\FlowerDancing.csprojAssemblyReference.cache
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\obj\Debug\FlowerDancing.dll
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\obj\Debug\FlowerDancing.pdb

@@ -1,0 +1,4 @@
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\bin\Release\FlowerDancing.dll
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\bin\Release\FlowerDancing.pdb
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\obj\Release\FlowerDancing.dll
+C:\Users\Kenny\Documents\Stardew Valley Modding Projects\FlowerDancing\FlowerDancing\obj\Release\FlowerDancing.pdb
