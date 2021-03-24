@@ -7,3 +7,4 @@ C:\Users\Kenny\Documents\git\Stardew Valley Mods\StardewValleyMods\FlowerDancing
 C:\Users\Kenny\Documents\git\Stardew Valley Mods\StardewValleyMods\FlowerDancing\FlowerDancing\obj\Release\FlowerDancing.csprojAssemblyReference.cache
 C:\Users\Kenny\Documents\git\Stardew Valley Mods\StardewValleyMods\FlowerDancing\FlowerDancing\obj\Release\FlowerDancing.dll
 C:\Users\Kenny\Documents\git\Stardew Valley Mods\StardewValleyMods\FlowerDancing\FlowerDancing\obj\Release\FlowerDancing.pdb
+C:\Users\Kenny\Documents\git\Stardew Valley Mods\StardewValleyMods\FlowerDancing\FlowerDancing\obj\Release\FlowerDancing.csproj.CoreCompileInputs.cache
