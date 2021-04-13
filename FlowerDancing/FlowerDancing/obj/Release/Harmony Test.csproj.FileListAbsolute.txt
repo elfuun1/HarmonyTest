@@ -1,0 +1,6 @@
+C:\Users\Meghan\Desktop\HarmonyTest\HarmonyTest.dll
+C:\Users\Meghan\Desktop\HarmonyTest\HarmonyTest.pdb
+C:\Users\Meghan\Source\Repos\elfuun1\HarmonyTest\FlowerDancing\FlowerDancing\obj\Release\Harmony Test.csprojAssemblyReference.cache
+C:\Users\Meghan\Source\Repos\elfuun1\HarmonyTest\FlowerDancing\FlowerDancing\obj\Release\Harmony Test.csproj.CoreCompileInputs.cache
+C:\Users\Meghan\Source\Repos\elfuun1\HarmonyTest\FlowerDancing\FlowerDancing\obj\Release\HarmonyTest.dll
+C:\Users\Meghan\Source\Repos\elfuun1\HarmonyTest\FlowerDancing\FlowerDancing\obj\Release\HarmonyTest.pdb

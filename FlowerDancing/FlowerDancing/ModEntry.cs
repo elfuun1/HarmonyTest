@@ -10,20 +10,16 @@ using StardewModdingAPI.Events;
 using StardewModdingAPI.Utilities;
 using StardewValley;
 
-namespace FlowerDancing
+namespace HarmonyTest
 {
     public class ModEntry : Mod
     {
-        private static ModConfig Config;
 
         public override void Entry(IModHelper helper)
         {
-            // Initialize Config
-            Config = this.Helper.ReadConfig<ModConfig>();
-            Helper.Events.GameLoop.GameLaunched += onLaunched;
 
             // Initialize Patches
-            EventPatched.Initialize(Monitor, Config);
+            EventPatched.Initialize(Monitor);
             var harmony = HarmonyInstance.Create(this.ModManifest.UniqueID);
 
             harmony.Patch
@@ -38,21 +34,7 @@ namespace FlowerDancing
                postfix: new HarmonyMethod(typeof(EventPatched), nameof(EventPatched.setUpPlayerControlSequence_Kelly))
             );
 
-            Monitor.Log("Kelly's Flower Dancing started using Harmony.", LogLevel.Debug);
-        }
-
-        private void onLaunched(object sender, GameLaunchedEventArgs e)
-        {
-            var api = Helper.ModRegistry.GetApi<GenericModConfigMenuAPI>("spacechase0.GenericModConfigMenu");
-
-            if(api is null) // Doesn't have Generic Mod Config Menu installed
-            {
-                return;
-            }
-
-            api.RegisterModConfig(ModManifest, () => Config = new ModConfig(), () => Helper.WriteConfig(Config));
-            api.RegisterLabel(ModManifest, "Kelly's Flower Dancing", "Made by kelly2892");
-            api.RegisterSimpleOption(ModManifest, "Auto Remove Attire", "Will automatically take off your clothes when you enter the Flower Dance. Once the dance is done, the clothes will be re-added.", () => Config.AutoRemoveClothes, (bool val) => Config.AutoRemoveClothes = val);
+            Monitor.Log("HarmonyTest started using Harmony.", LogLevel.Alert);
         }
     }
 }

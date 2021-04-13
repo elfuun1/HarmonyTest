@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerDancing", "FlowerDancing\FlowerDancing.csproj", "{00A878A9-4FF0-4C53-BF96-88160B1ADA20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmony Test", "FlowerDancing\Harmony Test.csproj", "{00A878A9-4FF0-4C53-BF96-88160B1ADA20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
